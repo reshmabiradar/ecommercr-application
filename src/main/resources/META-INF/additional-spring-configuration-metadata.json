@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "cloudinary.cloud_name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.cloud_name'"
+  },
+  {
+    "name": "razorpay.key",
+    "type": "java.lang.String",
+    "description": "A description for 'razorpay.key'"
+  },
+  {
+    "name": "cloudinary.key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.key'"
+  },
+  {
+    "name": "cloudinary.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.secret'"
+  },
+  {
+    "name": "razorpay.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'razorpay.secret'"
+  },
+  {
+    "name": "admin.email",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.email'"
+  },
+  {
+    "name": "admin.password",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.password'"
+  },
+  {
+    "name": "sprig.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'sprig.datasource.url'"
+  }
+]}
